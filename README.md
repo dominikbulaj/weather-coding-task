@@ -9,7 +9,7 @@ Project allows you to:
 
 ## Preview on-line
 
-...
+You can preview project online at (https://weather-coding-task.netlify.app)[https://weather-coding-task.netlify.app]
 
 ## What is still missing
 
